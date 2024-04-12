@@ -12,3 +12,9 @@ Conversão instantânea entre algumas moedas globais com uma interface intuitiva
 <br>
 
 <img src="https://github.com/ftelles19/conversor-moeda/blob/master/Assets/Projeto%20Conversor%202.png?raw=true">
+<br>
+<br>
+<img src="https://github.com/ftelles19/conversor-moeda/blob/master/Assets/Projeto%20Conversor.png?raw=true">
+<br>
+<br>
+<img src="https://github.com/ftelles19/conversor-moeda/blob/master/Assets/Projeto%20Conversor%203.png?raw=true">
