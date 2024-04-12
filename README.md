@@ -8,4 +8,7 @@ Conversão instantânea entre algumas moedas globais com uma interface intuitiva
 - HTML: Estruturação do conteúdo da página.<br>
 - CSS: Estilização para uma interface agradável e responsiva.<br>
 - JavaScript: Implementação das funcionalidades de conversão.
+<br>
+<br>
 
+<img src="https://github.com/ftelles19/conversor-moeda/blob/master/Assets/Projeto%20Conversor%202.png?raw=true">
