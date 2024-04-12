@@ -1,8 +1,10 @@
 <h1>Projeto Conversor</h1>
-Este é um simples conversor de moeda desenvolvido utilizando os conhecimentos adquiridos durante a formação Full Stack do DevClub. O objetivo deste projeto é fornecer uma ferramenta fácil de usar para converter valores monetários entre diferentes moedas.
 
-<h3>Funcionalidades</h3>
-Conversão instantânea entre algumas moedas globais com uma interface intuitiva e responsiva, acessível em dispositivos móveis e desktop.
+<h3>Objetivo</h3>
+Este é um simples conversor de moeda desenvolvido utilizando os conhecimentos adquiridos durante a formação Full Stack do DevClub. O objetivo deste projeto é fornecer uma ferramenta fácil de usar para converter valores monetários entre diferentes moedas, com uma interface intuitiva e responsiva, acessível em dispositivos móveis e desktop.
+
+<h3>Próximos passos</h3>
+Deixar o projeto responsivo, acessível em dispositivos móveis e desktop.
 
 <h3>Tecnologias Utilizadas</h3>
 - HTML: Estruturação do conteúdo da página.<br>
