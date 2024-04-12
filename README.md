@@ -4,7 +4,7 @@
 Este é um simples conversor de moeda desenvolvido utilizando os conhecimentos adquiridos durante a formação Full Stack do DevClub. O objetivo deste projeto é fornecer uma ferramenta fácil de usar para converter valores monetários entre diferentes moedas, com uma interface intuitiva e responsiva, acessível em dispositivos móveis e desktop.
 
 <h3>Próximos passos</h3>
-Deixar o projeto responsivo, acessível em dispositivos móveis e desktop.
+Deixar o projeto responsivo, acessível em dispositivos móveis e desktop e integrar com API para que os valores sejam atualizados conforme cotação atual, pois no projeto deixei um valor de cotação aleatório. 
 
 <h3>Tecnologias Utilizadas</h3>
 - HTML: Estruturação do conteúdo da página.<br>
